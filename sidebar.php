@@ -1,3 +1,3 @@
 <ul>
-  <?php dynamic_sidebar( 'Sidebar' ); ?>
+    <?php dynamic_sidebar( 'Sidebar' ); ?>
 </ul>
